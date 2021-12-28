@@ -1,7 +1,0 @@
-pandas
-numpy
-re
-pickle
-nltk
-sqlalchemy
-sklearn
